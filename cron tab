@@ -1,6 +1,6 @@
 ## now we are create cron job for run that scrip for that write a following command as it is ##
 -------------------------------------------------------------------------------------------------------
-crontab -e (it will open cron job terminal we will write command here)
+#crontab -e (it will open cron job terminal we will write command here)
 
 @reboot yum_repository_updater.sh
 
