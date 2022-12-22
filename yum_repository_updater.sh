@@ -3,4 +3,4 @@
 #!/bin/bash
 
 yum update
-yum upgread
+yum upgrade
